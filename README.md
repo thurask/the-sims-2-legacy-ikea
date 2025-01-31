@@ -17,7 +17,7 @@ An easy way to restore The Sims 2: IKEA Home Stuff to The Sims 2 Legacy Collecti
 2. Unpack and rename the new dir from `The Sims 2 IKEA® Home Stuff` to `SP8`.
 3. Download the file `ts2_legacy_ikea_stuff.reg` from this repo.
 4. Move the `SP8` folder to your game location (to the main catalogue where you see similar dirs).
-5. Double click the `ts2_legacy_ikea_stuff.reg` and click Yes on the prompt.
+5. Double click the `ts2_legacy_ikea_stuff.reg` and click Yes on the prompt to add the keys inside to your Windows registry.
 6. Start the game, and you will see Ikea items. Have fun! :)
 
 ## Missing Ikea collections
